@@ -1,3 +1,2 @@
 # Squaddesk-demo
-trail or first repo 
-author- arpit yadav
+trail or first repo author- arpit yadav
